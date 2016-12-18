@@ -1,0 +1,20 @@
+﻿@using Domain.Entities
+@model IEnumerable<Part>
+
+@{
+    ViewBag.Title = "Запчасти";
+}
+
+@foreach (Part part in Model)
+{
+    <div>
+        
+        <h3>@part.Name - @part.Category</h3>
+        <p>@part.Description</p>
+        <h4>@part.Price.ToString("# руб")</h4> 
+
+    </div>
+    <hr / >
+
+
+}
