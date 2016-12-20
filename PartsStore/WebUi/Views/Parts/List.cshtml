@@ -1,11 +1,12 @@
-﻿@using Domain.Entities
-@model IEnumerable<Part>
+﻿@using WebUi.Models
+@model PartsListViewModel
+
 
 @{
     ViewBag.Title = "Запчасти";
 }
 
-@foreach (Part part in Model)
+@foreach (var part in Model.Parts)
 {
     <div>
         
@@ -18,3 +19,7 @@
 
 
 }
+
+<div>
+    @Html.PageLinks(Model.PagingInfo, x => Url.Action("List", new { page = x }))
+</div>
