@@ -18,22 +18,24 @@ namespace WebUi.Controllers
 
         }
 
-        public ViewResult List(int page = 1)
+        public ViewResult List(string cat,int page = 1)
         {
             PartsListViewModel model = new PartsListViewModel
             {
                 Parts = repository.Parts
+                .Where(b => cat == null || b.Category == cat)
                 .OrderBy(part => part.PartId)
                 .Skip((page - 1) * pageSize)
                 .Take(pageSize),
                 PagingInfo = new PagingInfo
                 {
                     CurrentPage = page,
-                    ItemsPerPage=pageSize,
-                    TotalItems = repository.Parts.Count()
+                    ItemsPerPage = pageSize,
+                    TotalItems = cat == null ? repository.Parts.Count() : 
+                    repository.Parts.Where(part => part.Category == cat).Count()
 
-                }
-
+                },
+                CurrentCat = cat
 
             };
             return View(model);

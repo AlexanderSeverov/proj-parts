@@ -8,18 +8,9 @@
 
 @foreach (var part in Model.Parts)
 {
-    <div>
-        
-        <h3>@part.Name - @part.Category</h3>
-        <p>@part.Description</p>
-        <h4>@part.Price.ToString("# руб")</h4> 
-
-    </div>
-    <hr / >
-
-
+   @Html.Partial("_PartSummary",part)
 }
 
-<div>
-    @Html.PageLinks(Model.PagingInfo, x => Url.Action("List", new { page = x }))
+<div class="btn-group pull-right">
+    @Html.PageLinks(Model.PagingInfo, x => Url.Action("List", new { page = x,cat = Model.CurrentCat }))
 </div>

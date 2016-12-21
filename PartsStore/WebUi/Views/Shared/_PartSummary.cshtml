@@ -1,0 +1,23 @@
+﻿@model Domain.Entities.Part
+
+<div class="well">
+    <div class="row">
+        <div class="col-xs-10">
+            <h3>
+                <strong>@Model.Name</strong>
+            </h3>
+            <h4>
+                <strong>@Model.Category</strong>
+            </h4>
+        </div>
+        <div class="col-xs-2">
+            <h3>
+                <strong class="pull-right lable lable-primary">
+                    @Model.Price.ToString("# руб")
+                </strong>
+            </h3>
+        </div>
+    </div>
+    <span class="lead">@Model.Description </span>
+</div>
+

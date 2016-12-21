@@ -61,3 +61,17 @@ C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Part
 C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\WebUi\bin\EntityFramework.SqlServer.dll
 C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\WebUi\bin\EntityFramework.xml
 C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\WebUi\bin\EntityFramework.SqlServer.xml
+C:\Users\АлександрСевер\Documents\Visual Studio 2015\Projects\PartsStore\WebUi\bin\roslyn\csc.exe.config
+C:\Users\АлександрСевер\Documents\Visual Studio 2015\Projects\PartsStore\WebUi\bin\roslyn\csc.rsp
+C:\Users\АлександрСевер\Documents\Visual Studio 2015\Projects\PartsStore\WebUi\bin\roslyn\csi.exe
+C:\Users\АлександрСевер\Documents\Visual Studio 2015\Projects\PartsStore\WebUi\bin\roslyn\csi.rsp
+C:\Users\АлександрСевер\Documents\Visual Studio 2015\Projects\PartsStore\WebUi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\АлександрСевер\Documents\Visual Studio 2015\Projects\PartsStore\WebUi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\АлександрСевер\Documents\Visual Studio 2015\Projects\PartsStore\WebUi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\АлександрСевер\Documents\Visual Studio 2015\Projects\PartsStore\WebUi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\АлександрСевер\Documents\Visual Studio 2015\Projects\PartsStore\WebUi\bin\roslyn\System.AppContext.dll
+C:\Users\АлександрСевер\Documents\Visual Studio 2015\Projects\PartsStore\WebUi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\АлександрСевер\Documents\Visual Studio 2015\Projects\PartsStore\WebUi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\АлександрСевер\Documents\Visual Studio 2015\Projects\PartsStore\WebUi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\АлександрСевер\Documents\Visual Studio 2015\Projects\PartsStore\WebUi\bin\roslyn\vbc.exe.config
+C:\Users\АлександрСевер\Documents\Visual Studio 2015\Projects\PartsStore\WebUi\bin\roslyn\vbc.rsp

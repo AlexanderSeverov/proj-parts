@@ -10,6 +10,7 @@ namespace WebUi.Models
     {
         public IEnumerable<Part> Parts { get; set; }
         public PagingInfo PagingInfo { get; set; }
+        public string CurrentCat { get; set; }
 
     }
 }
