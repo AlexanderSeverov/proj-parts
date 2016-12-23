@@ -10,11 +10,15 @@ namespace WebUi.Controllers
 {
     public class PartsController : Controller
     {
-        private IPartsRepository repository;
         public int pageSize = 4;
+
+        private IPartsRepository repository;
+        
+       
         public PartsController(IPartsRepository repo)
         {
             repository = repo;
+           
 
         }
 
