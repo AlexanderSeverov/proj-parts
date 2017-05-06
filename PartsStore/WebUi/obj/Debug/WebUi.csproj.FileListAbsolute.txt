@@ -75,3 +75,11 @@ C:\Users\АлександрСевер\Documents\Visual Studio 2015\Projects\Part
 C:\Users\АлександрСевер\Documents\Visual Studio 2015\Projects\PartsStore\WebUi\bin\roslyn\System.IO.FileSystem.Primitives.dll
 C:\Users\АлександрСевер\Documents\Visual Studio 2015\Projects\PartsStore\WebUi\bin\roslyn\vbc.exe.config
 C:\Users\АлександрСевер\Documents\Visual Studio 2015\Projects\PartsStore\WebUi\bin\roslyn\vbc.rsp
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\WebUi\bin\Newtonsoft.Json.dll
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\WebUi\bin\System.Net.Http.Formatting.dll
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\WebUi\bin\System.Web.Http.dll
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\WebUi\bin\System.Web.Http.WebHost.dll
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\WebUi\bin\Newtonsoft.Json.xml
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\WebUi\bin\System.Net.Http.Formatting.xml
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\WebUi\bin\System.Web.Http.xml
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\WebUi\bin\System.Web.Http.WebHost.xml

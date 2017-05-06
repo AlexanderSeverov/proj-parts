@@ -20,3 +20,11 @@ C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Part
 C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\Domain\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\Domain\bin\Debug\EntityFramework.xml
 C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\Domain\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\Domain\bin\Debug\System.Web.Http.dll
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\Domain\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\Domain\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\Domain\bin\Debug\System.Web.Http.xml
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\Domain\bin\Debug\System.Web.Http.WebHost.xml
