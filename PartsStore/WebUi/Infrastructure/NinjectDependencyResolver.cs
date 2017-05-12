@@ -10,6 +10,7 @@ using Moq;
 using Domain.Abstract;
 using Domain.Entities;
 using Domain.Concreate;
+using System.Configuration;
 
 namespace WebUi.Infrastructure
 {
@@ -28,6 +29,15 @@ namespace WebUi.Infrastructure
         {
         
             kernel.Bind<IPartsRepository>().To<EFPartRepository>();
+
+            EmailSettings emailSettings = new EmailSettings
+            {
+                WriteAsFile = bool.Parse(ConfigurationManager.AppSettings["Email.WriteAsFile"] ?? "false")
+            };
+
+            kernel.Bind<IOrderProcessor>().To<EmailOrderProcess>()
+                .WithConstructorArgument("settings", emailSettings);
+
         }
 
         public object GetService(Type serviceType)

@@ -37,6 +37,14 @@ c:\users\александрсевер\documents\visual studio 2015\Projects\Part
 c:\users\александрсевер\documents\visual studio 2015\Projects\PartsStore\UnitTest\obj\Debug\UnitTest.pdb
 C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\UnitTest\bin\Debug\EntityFramework.dll
 C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\UnitTest\bin\Debug\EntityFramework.xml
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\UnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\UnitTest\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\UnitTest\bin\Debug\System.Web.Http.dll
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\UnitTest\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\UnitTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\UnitTest\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\UnitTest\bin\Debug\System.Web.Http.xml
+C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\UnitTest\bin\Debug\System.Web.Http.WebHost.xml
 C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\UnitTest\bin\Debug\roslyn\csc.exe
 C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\UnitTest\bin\Debug\roslyn\csc.exe.config
 C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\UnitTest\bin\Debug\roslyn\csc.rsp
@@ -63,11 +71,3 @@ C:\Users\АлександрСевер\documents\visual studio 2015\Projects\Part
 C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\UnitTest\bin\Debug\roslyn\vbc.rsp
 C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\UnitTest\bin\Debug\roslyn\VBCSCompiler.exe
 C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\UnitTest\bin\Debug\roslyn\VBCSCompiler.exe.config
-C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\UnitTest\bin\Debug\Newtonsoft.Json.dll
-C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\UnitTest\bin\Debug\System.Net.Http.Formatting.dll
-C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\UnitTest\bin\Debug\System.Web.Http.dll
-C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\UnitTest\bin\Debug\System.Web.Http.WebHost.dll
-C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\UnitTest\bin\Debug\Newtonsoft.Json.xml
-C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\UnitTest\bin\Debug\System.Net.Http.Formatting.xml
-C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\UnitTest\bin\Debug\System.Web.Http.xml
-C:\Users\АлександрСевер\documents\visual studio 2015\Projects\PartsStore\UnitTest\bin\Debug\System.Web.Http.WebHost.xml
